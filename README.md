@@ -1,2 +1,2 @@
-# Unleashers_Voyagehacks-TBO-Hackathon
+# Unleashers_Voyagehacks TBO Hackathon
 THEME:  Mashups - Packages, Calendar, Itineraries (Generative AI)
