@@ -1,4 +1,4 @@
-# TravelBuddy_Unleashers
+# TravelBuddy_Team Unleashers
 # Voyagehacks: Unleash the Travel Innovation
 
 ## Theme
