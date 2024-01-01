@@ -1,0 +1,8 @@
+{
+  "short_name": "Travel Buddy",
+  "name": "Travel Buddy - GenAI Powered Travel Itinerary Generator for Agents",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
