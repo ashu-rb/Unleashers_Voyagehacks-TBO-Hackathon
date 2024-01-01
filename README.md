@@ -15,6 +15,7 @@ Mashups - Packages, Calendar, Itineraries (Generative AI)
 [Link](https://www.canva.com/design/DAF4ooIQbBg/_mHsDM0_3pGlyRcQR_ohdw/view?utm_content=DAF4ooIQbBg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Travel Buddy Prototype Demo 
+[Link](https://drive.google.com/drive/folders/1jMiMnFsHpYzS1EScQN64FJUu7TfuzYfb?usp=sharing)
 
 ## How to run it?
 1. **Navigate to the project directory:**
