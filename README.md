@@ -16,19 +16,10 @@ Mashups - Packages, Calendar, Itineraries (Generative AI)
 
 ## TravelBuddy Prototype Demo 
 
-## Problem Statement
-
-
-## What TravelBuddy do?
-- 
-
 ## How to run it?
 1. 
 2. 
    
 ## Screenshots
-
-
-
 
 
