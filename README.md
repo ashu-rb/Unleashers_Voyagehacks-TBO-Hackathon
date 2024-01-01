@@ -1,4 +1,4 @@
-# TravelBuddy_Team Unleashers
+# Travel Buddy_Team Unleashers
 # Voyagehacks: Unleash the Travel Innovation
 
 ## Theme
@@ -14,7 +14,7 @@ Mashups - Packages, Calendar, Itineraries (Generative AI)
 ## Presentation
 [Link](https://www.canva.com/design/DAF4ooIQbBg/_mHsDM0_3pGlyRcQR_ohdw/view?utm_content=DAF4ooIQbBg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-## TravelBuddy Prototype Demo 
+## Travel Buddy Prototype Demo 
 
 ## How to run it?
 1. **Navigate to the project directory:**
