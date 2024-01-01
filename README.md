@@ -30,6 +30,10 @@ Mashups - Packages, Calendar, Itineraries (Generative AI)
     npm run start
    
 ## Screenshots
+<img width="1000" alt="Screenshot 2024-01-02 020651" src="https://github.com/ashu-rb/Unleashers_Voyagehacks-TBO-Hackathon/assets/78752052/8d7ea694-65f2-49bd-9d7a-529e9e2a6c62">
+<img width="1000" alt="Screenshot 2024-01-02 020806" src="https://github.com/ashu-rb/Unleashers_Voyagehacks-TBO-Hackathon/assets/78752052/9499d968-c29d-45ab-b9d4-8b7fdf39c298">
+<img width="1000" alt="Screenshot 2024-01-02 020929" src="https://github.com/ashu-rb/Unleashers_Voyagehacks-TBO-Hackathon/assets/78752052/9188ef2d-8322-4fcc-98f0-2e03dc94a7d6">
+
 ![Itinerary Generator](image1.png)
 
 
