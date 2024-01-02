@@ -1,0 +1,940 @@
+{
+  "Results": [
+    {
+      "FirstNameFormat": null,
+      "IsHoldAllowedWithSSR": false,
+      "LastNameFormat": null,
+      "ResultIndex": "OB1",
+      "Source": 6,
+      "IsLCC": true,
+      "IsRefundable": true,
+      "IsPanRequiredAtBook": false,
+      "IsPanRequiredAtTicket": false,
+      "IsPassportRequiredAtBook": false,
+      "IsPassportRequiredAtTicket": false,
+      "GSTAllowed": true,
+      "IsCouponAppilcable": true,
+      "IsGSTMandatory": false,
+      "AirlineRemark": "6E main.",
+      "IsPassportFullDetailRequiredAtBook": false,
+      "ResultFareType": "RegularFare",
+      "Fare": {
+        "Currency": "INR",
+        "BaseFare": 500,
+        "Tax": 518,
+        "TaxBreakup": [
+          {
+            "key": "K3",
+            "value": 0
+          },
+          {
+            "key": "YQTax",
+            "value": 0
+          },
+          {
+            "key": "YR",
+            "value": 0
+          },
+          {
+            "key": "PSF",
+            "value": 0
+          },
+          {
+            "key": "UDF",
+            "value": 0
+          },
+          {
+            "key": "INTax",
+            "value": 0
+          },
+          {
+            "key": "TransactionFee",
+            "value": 0
+          },
+          {
+            "key": "OtherTaxes",
+            "value": 518
+          }
+        ],
+        "YQTax": 0,
+        "AdditionalTxnFeeOfrd": 0,
+        "AdditionalTxnFeePub": 0,
+        "PGCharge": 0,
+        "OtherCharges": 0,
+        "ChargeBU": [
+          {
+            "key": "TBOMARKUP",
+            "value": 0
+          },
+          {
+            "key": "GLOBALPROCUREMENTCHARGE",
+            "value": 0
+          },
+          {
+            "key": "CONVENIENCECHARGE",
+            "value": 0
+          },
+          {
+            "key": "OTHERCHARGE",
+            "value": 0
+          }
+        ],
+        "Discount": 0,
+        "PublishedFare": 1018,
+        "CommissionEarned": 0,
+        "PLBEarned": 0,
+        "IncentiveEarned": 0,
+        "OfferedFare": 1018,
+        "TdsOnCommission": 0,
+        "TdsOnPLB": 0,
+        "TdsOnIncentive": 0,
+        "ServiceFee": 0,
+        "TotalBaggageCharges": 0,
+        "TotalMealCharges": 0,
+        "TotalSeatCharges": 0,
+        "TotalSpecialServiceCharges": 0
+      },
+      "FareBreakdown": [
+        {
+          "Currency": "INR",
+          "PassengerType": 1,
+          "PassengerCount": 1,
+          "BaseFare": 500,
+          "Tax": 518,
+          "TaxBreakUp": [
+            {
+              "key": "YQTax",
+              "value": 0
+            },
+            {
+              "key": "YR",
+              "value": 0
+            },
+            {
+              "key": "OtherTaxes",
+              "value": 518
+            }
+          ],
+          "YQTax": 0,
+          "AdditionalTxnFeeOfrd": 0,
+          "AdditionalTxnFeePub": 0,
+          "PGCharge": 0,
+          "SupplierReissueCharges": 0
+        }
+      ],
+      "Segments": {
+        "Baggage": "15 KG",
+        "CabinBaggage": " 7 KG",
+        "CabinClass": 0,
+        "SupplierFareClass": null,
+        "SegmentIndicator": 1,
+        "Airline": {
+          "AirlineCode": "6E",
+          "AirlineName": "Indigo",
+          "FlightNumber": "2009",
+          "FareClass": "RR",
+          "OperatingCarrier": ""
+        },
+        "NoOfSeatAvailable": 3,
+        "Origin": {
+          "Airport": {
+            "AirportCode": "DEL",
+            "AirportName": "Indira Gandhi Airport",
+            "Terminal": "2",
+            "CityCode": "DEL",
+            "CityName": "Delhi",
+            "CountryCode": "IN",
+            "CountryName": "India"
+          },
+          "DepTime": "2024-04-06T02:00:00"
+        },
+        "Destination": {
+          "Airport": {
+            "AirportCode": "BOM",
+            "AirportName": "Mumbai",
+            "Terminal": "2",
+            "CityCode": "BOM",
+            "CityName": "Mumbai",
+            "CountryCode": "IN",
+            "CountryName": "India"
+          },
+          "ArrTime": "2024-04-06T04:05:00"
+        },
+        "Duration": 0,
+        "GroundTime": 0,
+        "Mile": 0,
+        "StopOver": false,
+        "FlightInfoIndex": "",
+        "StopPoint": "",
+        "StopPointArrivalTime": null,
+        "StopPointDepartureTime": null,
+        "Craft": "320",
+        "Remark": null,
+        "IsETicketEligible": true,
+        "FlightStatus": "Confirmed",
+        "Status": "",
+        "FareClassification": {
+          "Type": "Publish"
+        }
+      },
+      "LastTicketDate": null,
+      "TicketAdvisory": null,
+      "FareRules": [
+        {
+          "Origin": "DEL",
+          "Destination": "BOM",
+          "Airline": "6E",
+          "FareBasisCode": "R0INT",
+          "FareRuleDetail": "",
+          "FareRestriction": "",
+          "FareFamilyCode": "",
+          "FareRuleIndex": ""
+        }
+      ],
+      "AirlineCode": "6E",
+      "MiniFareRules": [
+        [
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Reissue",
+            "From": "0",
+            "To": "3",
+            "Unit": "Days",
+            "Details": "INR 3250"
+          },
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Reissue",
+            "From": "4",
+            "To": "",
+            "Unit": "Days",
+            "Details": "INR 2750"
+          },
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Cancellation",
+            "From": "0",
+            "To": "3",
+            "Unit": "Days",
+            "Details": "INR 3500"
+          },
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Cancellation",
+            "From": "4",
+            "To": "",
+            "Unit": "Days",
+            "Details": "INR 3000"
+          }
+        ]
+      ],
+      "ValidatingAirline": "6E",
+      "FareClassification": {
+        "Color": "lightBlue",
+        "Type": "Publish"
+      }
+    },
+    {
+      "FirstNameFormat": null,
+      "IsHoldAllowedWithSSR": false,
+      "LastNameFormat": null,
+      "ResultIndex": "OB18",
+      "Source": 6,
+      "IsLCC": true,
+      "IsRefundable": true,
+      "IsPanRequiredAtBook": false,
+      "IsPanRequiredAtTicket": false,
+      "IsPassportRequiredAtBook": false,
+      "IsPassportRequiredAtTicket": false,
+      "GSTAllowed": true,
+      "IsCouponAppilcable": true,
+      "IsGSTMandatory": false,
+      "AirlineRemark": "6E main.",
+      "IsPassportFullDetailRequiredAtBook": false,
+      "ResultFareType": "RegularFare",
+      "Fare": {
+        "Currency": "INR",
+        "BaseFare": 500,
+        "Tax": 518,
+        "TaxBreakup": [
+          {
+            "key": "K3",
+            "value": 0
+          },
+          {
+            "key": "YQTax",
+            "value": 0
+          },
+          {
+            "key": "YR",
+            "value": 0
+          },
+          {
+            "key": "PSF",
+            "value": 0
+          },
+          {
+            "key": "UDF",
+            "value": 0
+          },
+          {
+            "key": "INTax",
+            "value": 0
+          },
+          {
+            "key": "TransactionFee",
+            "value": 0
+          },
+          {
+            "key": "OtherTaxes",
+            "value": 518
+          }
+        ],
+        "YQTax": 0,
+        "AdditionalTxnFeeOfrd": 0,
+        "AdditionalTxnFeePub": 0,
+        "PGCharge": 0,
+        "OtherCharges": 0,
+        "ChargeBU": [
+          {
+            "key": "TBOMARKUP",
+            "value": 0
+          },
+          {
+            "key": "GLOBALPROCUREMENTCHARGE",
+            "value": 0
+          },
+          {
+            "key": "CONVENIENCECHARGE",
+            "value": 0
+          },
+          {
+            "key": "OTHERCHARGE",
+            "value": 0
+          }
+        ],
+        "Discount": 0,
+        "PublishedFare": 1218,
+        "CommissionEarned": 0,
+        "PLBEarned": 0,
+        "IncentiveEarned": 0,
+        "OfferedFare": 1018,
+        "TdsOnCommission": 0,
+        "TdsOnPLB": 0,
+        "TdsOnIncentive": 0,
+        "ServiceFee": 0,
+        "TotalBaggageCharges": 0,
+        "TotalMealCharges": 0,
+        "TotalSeatCharges": 0,
+        "TotalSpecialServiceCharges": 0
+      },
+      "FareBreakdown": [
+        {
+          "Currency": "INR",
+          "PassengerType": 1,
+          "PassengerCount": 1,
+          "BaseFare": 500,
+          "Tax": 518,
+          "TaxBreakUp": [
+            {
+              "key": "YQTax",
+              "value": 0
+            },
+            {
+              "key": "YR",
+              "value": 0
+            },
+            {
+              "key": "OtherTaxes",
+              "value": 518
+            }
+          ],
+          "YQTax": 0,
+          "AdditionalTxnFeeOfrd": 0,
+          "AdditionalTxnFeePub": 0,
+          "PGCharge": 0,
+          "SupplierReissueCharges": 0
+        }
+      ],
+      "Segments": {
+        "Baggage": "15 KG",
+        "CabinBaggage": " 7 KG",
+        "CabinClass": 0,
+        "SupplierFareClass": null,
+        "SegmentIndicator": 1,
+        "Airline": {
+          "AirlineCode": "6E",
+          "AirlineName": "Indigo",
+          "FlightNumber": "2519",
+          "FareClass": "RR",
+          "OperatingCarrier": ""
+        },
+        "NoOfSeatAvailable": 3,
+        "Origin": {
+          "Airport": {
+            "AirportCode": "DEL",
+            "AirportName": "Indira Gandhi Airport",
+            "Terminal": "2",
+            "CityCode": "DEL",
+            "CityName": "Delhi",
+            "CountryCode": "IN",
+            "CountryName": "India"
+          },
+          "DepTime": "2024-04-06T23:15:00"
+        },
+        "Destination": {
+          "Airport": {
+            "AirportCode": "BOM",
+            "AirportName": "Mumbai",
+            "Terminal": "2",
+            "CityCode": "BOM",
+            "CityName": "Mumbai",
+            "CountryCode": "IN",
+            "CountryName": "India"
+          },
+          "ArrTime": "2024-04-07T01:20:00"
+        },
+        "Duration": 0,
+        "GroundTime": 0,
+        "Mile": 0,
+        "StopOver": false,
+        "FlightInfoIndex": "",
+        "StopPoint": "",
+        "StopPointArrivalTime": null,
+        "StopPointDepartureTime": null,
+        "Craft": "320",
+        "Remark": null,
+        "IsETicketEligible": true,
+        "FlightStatus": "Confirmed",
+        "Status": "",
+        "FareClassification": {
+          "Type": "Publish"
+        }
+      },
+      "LastTicketDate": null,
+      "TicketAdvisory": null,
+      "FareRules": [
+        {
+          "Origin": "DEL",
+          "Destination": "BOM",
+          "Airline": "6E",
+          "FareBasisCode": "R0INT",
+          "FareRuleDetail": "",
+          "FareRestriction": "",
+          "FareFamilyCode": "",
+          "FareRuleIndex": ""
+        }
+      ],
+      "AirlineCode": "6E",
+      "MiniFareRules": [
+        [
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Reissue",
+            "From": "0",
+            "To": "3",
+            "Unit": "Days",
+            "Details": "INR 3250"
+          },
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Reissue",
+            "From": "4",
+            "To": "",
+            "Unit": "Days",
+            "Details": "INR 2750"
+          },
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Cancellation",
+            "From": "0",
+            "To": "3",
+            "Unit": "Days",
+            "Details": "INR 3500"
+          },
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Cancellation",
+            "From": "4",
+            "To": "",
+            "Unit": "Days",
+            "Details": "INR 3000"
+          }
+        ]
+      ],
+      "ValidatingAirline": "6E",
+      "FareClassification": {
+        "Color": "lightBlue",
+        "Type": "Publish"
+      }
+    },
+    {
+      "FirstNameFormat": null,
+      "IsHoldAllowedWithSSR": false,
+      "LastNameFormat": null,
+      "ResultIndex": "OB17",
+      "Source": 6,
+      "IsLCC": true,
+      "IsRefundable": true,
+      "IsPanRequiredAtBook": false,
+      "IsPanRequiredAtTicket": false,
+      "IsPassportRequiredAtBook": false,
+      "IsPassportRequiredAtTicket": false,
+      "GSTAllowed": true,
+      "IsCouponAppilcable": true,
+      "IsGSTMandatory": false,
+      "AirlineRemark": "6E main.",
+      "IsPassportFullDetailRequiredAtBook": false,
+      "ResultFareType": "RegularFare",
+      "Fare": {
+        "Currency": "INR",
+        "BaseFare": 500,
+        "Tax": 518,
+        "TaxBreakup": [
+          {
+            "key": "K3",
+            "value": 0
+          },
+          {
+            "key": "YQTax",
+            "value": 0
+          },
+          {
+            "key": "YR",
+            "value": 0
+          },
+          {
+            "key": "PSF",
+            "value": 0
+          },
+          {
+            "key": "UDF",
+            "value": 0
+          },
+          {
+            "key": "INTax",
+            "value": 0
+          },
+          {
+            "key": "TransactionFee",
+            "value": 0
+          },
+          {
+            "key": "OtherTaxes",
+            "value": 518
+          }
+        ],
+        "YQTax": 0,
+        "AdditionalTxnFeeOfrd": 0,
+        "AdditionalTxnFeePub": 0,
+        "PGCharge": 0,
+        "OtherCharges": 0,
+        "ChargeBU": [
+          {
+            "key": "TBOMARKUP",
+            "value": 0
+          },
+          {
+            "key": "GLOBALPROCUREMENTCHARGE",
+            "value": 0
+          },
+          {
+            "key": "CONVENIENCECHARGE",
+            "value": 0
+          },
+          {
+            "key": "OTHERCHARGE",
+            "value": 0
+          }
+        ],
+        "Discount": 0,
+        "PublishedFare": 2018,
+        "CommissionEarned": 0,
+        "PLBEarned": 0,
+        "IncentiveEarned": 0,
+        "OfferedFare": 1018,
+        "TdsOnCommission": 0,
+        "TdsOnPLB": 0,
+        "TdsOnIncentive": 0,
+        "ServiceFee": 0,
+        "TotalBaggageCharges": 0,
+        "TotalMealCharges": 0,
+        "TotalSeatCharges": 0,
+        "TotalSpecialServiceCharges": 0
+      },
+      "FareBreakdown": [
+        {
+          "Currency": "INR",
+          "PassengerType": 1,
+          "PassengerCount": 1,
+          "BaseFare": 500,
+          "Tax": 518,
+          "TaxBreakUp": [
+            {
+              "key": "YQTax",
+              "value": 0
+            },
+            {
+              "key": "YR",
+              "value": 0
+            },
+            {
+              "key": "OtherTaxes",
+              "value": 518
+            }
+          ],
+          "YQTax": 0,
+          "AdditionalTxnFeeOfrd": 0,
+          "AdditionalTxnFeePub": 0,
+          "PGCharge": 0,
+          "SupplierReissueCharges": 0
+        }
+      ],
+      "Segments": {
+        "Baggage": "15 KG",
+        "CabinBaggage": " 7 KG",
+        "CabinClass": 0,
+        "SupplierFareClass": null,
+        "SegmentIndicator": 1,
+        "Airline": {
+          "AirlineCode": "6E",
+          "AirlineName": "Indigo",
+          "FlightNumber": "2114",
+          "FareClass": "RR",
+          "OperatingCarrier": ""
+        },
+        "NoOfSeatAvailable": 3,
+        "Origin": {
+          "Airport": {
+            "AirportCode": "DEL",
+            "AirportName": "Indira Gandhi Airport",
+            "Terminal": "2",
+            "CityCode": "DEL",
+            "CityName": "Delhi",
+            "CountryCode": "IN",
+            "CountryName": "India"
+          },
+          "DepTime": "2024-04-06T22:00:00"
+        },
+        "Destination": {
+          "Airport": {
+            "AirportCode": "BOM",
+            "AirportName": "Mumbai",
+            "Terminal": "2",
+            "CityCode": "BOM",
+            "CityName": "Mumbai",
+            "CountryCode": "IN",
+            "CountryName": "India"
+          },
+          "ArrTime": "2024-04-07T00:05:00"
+        },
+        "Duration": 0,
+        "GroundTime": 0,
+        "Mile": 0,
+        "StopOver": false,
+        "FlightInfoIndex": "",
+        "StopPoint": "",
+        "StopPointArrivalTime": null,
+        "StopPointDepartureTime": null,
+        "Craft": "320",
+        "Remark": null,
+        "IsETicketEligible": true,
+        "FlightStatus": "Confirmed",
+        "Status": "",
+        "FareClassification": {
+          "Type": "Publish"
+        }
+      },
+      "LastTicketDate": null,
+      "TicketAdvisory": null,
+      "FareRules": [
+        {
+          "Origin": "DEL",
+          "Destination": "BOM",
+          "Airline": "6E",
+          "FareBasisCode": "R0INT",
+          "FareRuleDetail": "",
+          "FareRestriction": "",
+          "FareFamilyCode": "",
+          "FareRuleIndex": ""
+        }
+      ],
+      "AirlineCode": "6E",
+      "MiniFareRules": [
+        [
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Reissue",
+            "From": "0",
+            "To": "3",
+            "Unit": "Days",
+            "Details": "INR 3250"
+          },
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Reissue",
+            "From": "4",
+            "To": "",
+            "Unit": "Days",
+            "Details": "INR 2750"
+          },
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Cancellation",
+            "From": "0",
+            "To": "3",
+            "Unit": "Days",
+            "Details": "INR 3500"
+          },
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Cancellation",
+            "From": "4",
+            "To": "",
+            "Unit": "Days",
+            "Details": "INR 3000"
+          }
+        ]
+      ],
+      "ValidatingAirline": "6E",
+      "FareClassification": {
+        "Color": "lightBlue",
+        "Type": "Publish"
+      }
+    },
+    {
+      "FirstNameFormat": null,
+      "IsHoldAllowedWithSSR": false,
+      "LastNameFormat": null,
+      "ResultIndex": "OB16",
+      "Source": 6,
+      "IsLCC": true,
+      "IsRefundable": true,
+      "IsPanRequiredAtBook": false,
+      "IsPanRequiredAtTicket": false,
+      "IsPassportRequiredAtBook": false,
+      "IsPassportRequiredAtTicket": false,
+      "GSTAllowed": true,
+      "IsCouponAppilcable": true,
+      "IsGSTMandatory": false,
+      "AirlineRemark": "6E main.",
+      "IsPassportFullDetailRequiredAtBook": false,
+      "ResultFareType": "RegularFare",
+      "Fare": {
+        "Currency": "INR",
+        "BaseFare": 500,
+        "Tax": 518,
+        "TaxBreakup": [
+          {
+            "key": "K3",
+            "value": 0
+          },
+          {
+            "key": "YQTax",
+            "value": 0
+          },
+          {
+            "key": "YR",
+            "value": 0
+          },
+          {
+            "key": "PSF",
+            "value": 0
+          },
+          {
+            "key": "UDF",
+            "value": 0
+          },
+          {
+            "key": "INTax",
+            "value": 0
+          },
+          {
+            "key": "TransactionFee",
+            "value": 0
+          },
+          {
+            "key": "OtherTaxes",
+            "value": 518
+          }
+        ],
+        "YQTax": 0,
+        "AdditionalTxnFeeOfrd": 0,
+        "AdditionalTxnFeePub": 0,
+        "PGCharge": 0,
+        "OtherCharges": 0,
+        "ChargeBU": [
+          {
+            "key": "TBOMARKUP",
+            "value": 0
+          },
+          {
+            "key": "GLOBALPROCUREMENTCHARGE",
+            "value": 0
+          },
+          {
+            "key": "CONVENIENCECHARGE",
+            "value": 0
+          },
+          {
+            "key": "OTHERCHARGE",
+            "value": 0
+          }
+        ],
+        "Discount": 0,
+        "PublishedFare": 5523,
+        "CommissionEarned": 0,
+        "PLBEarned": 0,
+        "IncentiveEarned": 0,
+        "OfferedFare": 1018,
+        "TdsOnCommission": 0,
+        "TdsOnPLB": 0,
+        "TdsOnIncentive": 0,
+        "ServiceFee": 0,
+        "TotalBaggageCharges": 0,
+        "TotalMealCharges": 0,
+        "TotalSeatCharges": 0,
+        "TotalSpecialServiceCharges": 0
+      },
+      "FareBreakdown": [
+        {
+          "Currency": "INR",
+          "PassengerType": 1,
+          "PassengerCount": 1,
+          "BaseFare": 500,
+          "Tax": 518,
+          "TaxBreakUp": [
+            {
+              "key": "YQTax",
+              "value": 0
+            },
+            {
+              "key": "YR",
+              "value": 0
+            },
+            {
+              "key": "OtherTaxes",
+              "value": 518
+            }
+          ],
+          "YQTax": 0,
+          "AdditionalTxnFeeOfrd": 0,
+          "AdditionalTxnFeePub": 0,
+          "PGCharge": 0,
+          "SupplierReissueCharges": 0
+        }
+      ],
+      "Segments": {
+        "Baggage": "15 KG",
+        "CabinBaggage": " 7 KG",
+        "CabinClass": 0,
+        "SupplierFareClass": null,
+        "SegmentIndicator": 1,
+        "Airline": {
+          "AirlineCode": "6E",
+          "AirlineName": "Indigo",
+          "FlightNumber": "6083",
+          "FareClass": "RR",
+          "OperatingCarrier": ""
+        },
+        "NoOfSeatAvailable": 3,
+        "Origin": {
+          "Airport": {
+            "AirportCode": "DEL",
+            "AirportName": "Indira Gandhi Airport",
+            "Terminal": "1",
+            "CityCode": "DEL",
+            "CityName": "Delhi",
+            "CountryCode": "IN",
+            "CountryName": "India"
+          },
+          "DepTime": "2024-04-06T20:45:00"
+        },
+        "Destination": {
+          "Airport": {
+            "AirportCode": "BOM",
+            "AirportName": "Mumbai",
+            "Terminal": "2",
+            "CityCode": "BOM",
+            "CityName": "Mumbai",
+            "CountryCode": "IN",
+            "CountryName": "India"
+          },
+          "ArrTime": "2024-04-06T23:05:00"
+        },
+        "Duration": 0,
+        "GroundTime": 0,
+        "Mile": 0,
+        "StopOver": false,
+        "FlightInfoIndex": "",
+        "StopPoint": "",
+        "StopPointArrivalTime": null,
+        "StopPointDepartureTime": null,
+        "Craft": "320",
+        "Remark": null,
+        "IsETicketEligible": true,
+        "FlightStatus": "Confirmed",
+        "Status": "",
+        "FareClassification": {
+          "Type": "Publish"
+        }
+      },
+      "LastTicketDate": null,
+      "TicketAdvisory": null,
+      "FareRules": [
+        {
+          "Origin": "DEL",
+          "Destination": "BOM",
+          "Airline": "6E",
+          "FareBasisCode": "R0INT",
+          "FareRuleDetail": "",
+          "FareRestriction": "",
+          "FareFamilyCode": "",
+          "FareRuleIndex": ""
+        }
+      ],
+      "AirlineCode": "6E",
+      "MiniFareRules": [
+        [
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Reissue",
+            "From": "0",
+            "To": "3",
+            "Unit": "Days",
+            "Details": "INR 3250"
+          },
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Reissue",
+            "From": "4",
+            "To": "",
+            "Unit": "Days",
+            "Details": "INR 2750"
+          },
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Cancellation",
+            "From": "0",
+            "To": "3",
+            "Unit": "Days",
+            "Details": "INR 3500"
+          },
+          {
+            "JourneyPoints": "DEL-BOM",
+            "Type": "Cancellation",
+            "From": "4",
+            "To": "",
+            "Unit": "Days",
+            "Details": "INR 3000"
+          }
+        ]
+      ],
+      "ValidatingAirline": "6E",
+      "FareClassification": {
+        "Color": "lightBlue",
+        "Type": "Publish"
+      }
+    }
+  ]
+}
